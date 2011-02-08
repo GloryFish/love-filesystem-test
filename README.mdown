@@ -1,0 +1,5 @@
+This is a test project demonstrating the speed difference between lua's native io.open() and LÖVE's love.filesystem.lines() when working with large files.
+
+words.list contains 200,000+ words, one per line.
+
+main.lua is a LÖVE program that loads the file using love.filesystem.lines() and usingio.lua uses io.open().
