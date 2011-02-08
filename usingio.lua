@@ -5,13 +5,6 @@
 --  Created by Jay Roberts on 2011-02-08.
 -- 
 
--- 
---  main.lua
---  love-filesize-test
---  
---  Created by Jay Roberts on 2011-02-08.
--- 
-
 local lines = {}
 local totaltime = 0
 
